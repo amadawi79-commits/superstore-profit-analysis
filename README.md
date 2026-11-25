@@ -1,5 +1,9 @@
 # مشروع تحليل أرباح متجر Superstore
 
+## رابط التطبيق
+[افتح لوحة تحليل أرباح Superstore على Streamlit](https://superstore-profit-analysis-4zbpvbj4rxlkcmt6fnnknt.streamlit.app/)
+
+
 ## وصف المشروع
 مشروع لتحليل بيانات مبيعات متجر Superstore باستخدام Python، بهدف فهم أسباب انخفاض الأرباح رغم ارتفاع المبيعات، ودراسة تأثير الخصومات وفئات المنتجات والمناطق على الربحية.
 
